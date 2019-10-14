@@ -1,4 +1,6 @@
 # object-detection-from-Image-and-video-by-YOLO-V3-algorithm
+This link may also help you. Follow this link.
+https://heartbeat.fritz.ai/detecting-objects-in-videos-and-camera-feeds-using-keras-opencv-and-imageai-c869fe1ebcdb
 
 In this article, we we’ll be using a Python library called ImageAI that has made it possible for anyone with basic knowledge of Python to build applications and systems that can detect objects in videos using only a few lines of programming code. ImageAI supports YOLOv3, which is the object detection algorithm we’ll use in this article.
 
